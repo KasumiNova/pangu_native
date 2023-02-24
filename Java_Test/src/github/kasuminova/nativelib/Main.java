@@ -1,4 +1,4 @@
-package main.java.github.kasuminova.nativelib;
+package github.kasuminova.nativelib;
 
 import java.io.File;
 import java.io.IOException;
